@@ -6,3 +6,10 @@ UnityのPostProcessingのテスト
 [![Image from Gyazo](https://i.gyazo.com/554d9a6c05c9c0759bd111cda4cf9804.png)](https://gyazo.com/554d9a6c05c9c0759bd111cda4cf9804)
 
 [【Unity】Post Processingで自作のポストエフェクトを実装する](https://light11.hatenadiary.com/entry/2019/03/31/225111)から、Scalingを追加してみる
+
+# 参考  
+
+[7日間でマスターするUnityシェーダ入門](https://nn-hokuson.hatenablog.com/entry/2018/02/15/140037)  
+
+[Unityシェーダプログラム入門 UnlitShaderの要素を全て解説](https://amagamina.jp/blog/unity-shader/)
+
