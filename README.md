@@ -14,3 +14,7 @@ UnityのPostProcessingのテスト
 [Unityシェーダプログラム入門 UnlitShaderの要素を全て解説](https://amagamina.jp/blog/unity-shader/)
 
 [[C#] シリアライズ(Serialization)をする方法](https://www.nowonbun.com/210.html)
+
+[float4 とは？](https://ninashader.hatenablog.com/entry/2019/06/02/015449)
+
+[Shaderチュートリアル](http://mirichi.github.io/dxruby-doc/tutorial/shader.html)
