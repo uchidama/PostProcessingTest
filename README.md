@@ -13,3 +13,4 @@ UnityのPostProcessingのテスト
 
 [Unityシェーダプログラム入門 UnlitShaderの要素を全て解説](https://amagamina.jp/blog/unity-shader/)
 
+[[C#] シリアライズ(Serialization)をする方法](https://www.nowonbun.com/210.html)
