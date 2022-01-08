@@ -1,5 +1,5 @@
 # PostProcessingTest
-[![Image from Gyazo](https://i.gyazo.com/eb1abd985162f3f0da0bbb2269f5d02a.gif)](https://gyazo.com/eb1abd985162f3f0da0bbb2269f5d02a)
+[![Image from Gyazo](https://i.gyazo.com/9cf51838814e2f045196baeebe6d9484.gif)](https://gyazo.com/9cf51838814e2f045196baeebe6d9484)
 UnityのPostProcessingのテスト  
 
 [イメージエフェクト(Post Processing)の導入方法](https://nobushiueshi.com/unity%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88post-processing%E3%81%AE%E5%B0%8E%E5%85%A5%E6%96%B9%E6%B3%95/)を参考に。  
@@ -20,3 +20,5 @@ UnityのPostProcessingのテスト
 
 [Unityでラスタースクロール](https://esprog.hatenablog.com/entry/2016/01/09/174759)
 
+# Requirements
+- Unity 2020.3.25f1
