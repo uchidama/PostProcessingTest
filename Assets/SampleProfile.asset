@@ -29,7 +29,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f463224feca5f4bec91f4298a6d00644, type: 3}
   m_Name: Monotone
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -95,7 +95,7 @@ MonoBehaviour:
     value: 1
   level:
     overrideState: 1
-    value: 0.026
+    value: 0.09
   speed:
     overrideState: 1
     value: 0.4
@@ -120,4 +120,4 @@ MonoBehaviour:
     value: 1
   scale:
     overrideState: 1
-    value: 0.234
+    value: 0
